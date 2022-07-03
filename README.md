@@ -20,7 +20,7 @@ At the end of this course, students are expected to be able to
 5. [Statistical Visualization with Seaborn](https://github.com/adejumoridwan/DataScienceWithPython/tree/master/Python%20for%20Data%20Analysis/06-Data-Visualization-with-Seaborn)
 6. [Data Science Captstone Project](https://github.com/adejumoridwan/DataScienceWithPython/tree/master/Python%20for%20Data%20Analysis/10-Data-Capstone-Projects)
 
-### Machine Learning with Python
+## Machine Learning with Python
 
 ### 🎯Objectives
 At the end of this course, students are expected to be able to use and implement various Machine Learning algorithms using the Scikit-Learn library.
