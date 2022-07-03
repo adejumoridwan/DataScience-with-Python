@@ -1,8 +1,7 @@
-# Python-Data-Science-and-Machine-Learning-Course
+# Data Science With Python
 This course is broken into two parts
 * Data Analysis with Python
 * Machine Learning with Python
-
 
 ## Data Analysis with Python
 
@@ -21,8 +20,9 @@ At the end of this course, students are expected to be able to
 6. [Data Science Captstone Project](https://github.com/adejumoridwan/DataScienceWithPython/tree/master/Python%20for%20Data%20Analysis/10-Data-Capstone-Projects)
 
 ### Machine Learning with Python
-### 🎯Objectives
 
+### 🎯Objectives
+At the end of this course, students are expected to be able to use and implement various Machine Learning algorithms using the Scikit-Learn library.
 
 ### 🔳✒️Outline
 1. [Linear Regression](https://github.com/adejumoridwan/DataScienceWithPython/tree/master/Python%20for%20Machine%20Learning/11-Linear-Regression)
