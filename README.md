@@ -12,7 +12,7 @@ At the end of this course, students are expected to be able to
 * Clean and Wrangle data using the Pandas library.
 * Plot various visualizations using the Matplotlib and Seaborn library.
 
-### 🔳✒️🖊Outline
+### 🔳✒️Outline
 1. [Python Crash Course](https://github.com/adejumoridwan/DataScienceWithPython/tree/master/Python%20for%20Data%20Analysis/01-Python-Crash-Course)
 2. [Introduction to Numpy](https://github.com/adejumoridwan/DataScienceWithPython/tree/master/Python%20for%20Data%20Analysis/02-Python-for-Data-Analysis-NumPy)
 3. [Data Analysis with Pandas](https://github.com/adejumoridwan/DataScienceWithPython/tree/master/Python%20for%20Data%20Analysis/03-Python-for-Data-Analysis-Pandas)
@@ -24,7 +24,7 @@ At the end of this course, students are expected to be able to
 ### 🎯Objectives
 
 
-### 🔳✒️🖊Outline
+### 🔳✒️Outline
 1. [Linear Regression](https://github.com/adejumoridwan/DataScienceWithPython/tree/master/Python%20for%20Machine%20Learning/11-Linear-Regression)
 2. [Logistic Regression](https://github.com/adejumoridwan/DataScienceWithPython/tree/master/Python%20for%20Machine%20Learning/13-Logistic-Regression)
 3. [K Nearest Neighbours](https://github.com/adejumoridwan/DataScienceWithPython/tree/master/Python%20for%20Machine%20Learning/14-K-Nearest-Neighbors)
