@@ -6,7 +6,7 @@ This course is broken into two parts
 
 ## Data Analysis with Python
 
-### Objectives
+🎯### Objectives
 At the end of this course, students are expected to be able to
 * Read various data types using the Pandas library.
 * Clean and Wrangle data using the Pandas library.
